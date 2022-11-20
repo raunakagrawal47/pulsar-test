@@ -1,0 +1,2 @@
+phonenumbers==8.12.6
+pulsar-client==2.10.2
